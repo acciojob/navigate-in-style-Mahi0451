@@ -3,7 +3,10 @@
 	background:#D3D3D3;
 	padding:10px;
 }
-ul li{
+ul{
+	display:flex;
+}
+li{
 	display:inline;
 	margin-right:1rem;
 	list-style-type:none;
